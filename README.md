@@ -10,9 +10,10 @@ Also have a contact page where the form looks like in the below example (textare
 
 Once finished, add, commit and push your work.
 
-## Extra mile:
+## Extra miles (might give you bonus points):
 
-Social media links on the contact page should have apropriate icons (use font-awesome as described below).
+1. Social media links on the contact page should have apropriate icons (use font-awesome as described below).
+2. The contact page should have the same header and footer as the main page.
 
 ## Notes:
 
