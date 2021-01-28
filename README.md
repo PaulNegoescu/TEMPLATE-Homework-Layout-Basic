@@ -4,9 +4,17 @@ Replicate the following design taken from the Bootstrap examples page in pure HT
 
 ![Layout example](Bootstrap.png)
 
+Also have a contact page where the form looks like in the below example (textarea to the right of the fields). Link to the contact page the `Main call to action` button above.
+
+![Contact](Screenshot%202019-12-20%20at%2017.29.47.png)
+
 Once finished, add, commit and push your work.
 
-Note:
+## Extra mile:
+
+Social media links on the contact page should have apropriate icons (use font-awesome as described below).
+
+## Notes:
 
 1. Making the hamburger menu (3 horizontal lines button) functional is not part of the requirement, **just create the button and make it look ok.**
 2. For icons (hamburger (3 horizontal lines button) and photo camera) use an icon font. Try **Font Awesome** for example (google it to find how it works and how to use it)
